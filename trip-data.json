@@ -1,0 +1,52 @@
+{
+  "tripTitle": "东京-青森跨年之旅",
+  "tripDateRange": "12.31 - 01.05",
+  "flights": [
+    {
+      "direction": "出发",
+      "airline": "吉祥航空",
+      "flightNo": "HO1379",
+      "departAirport": "上海浦东国际机场",
+      "arriveAirport": "东京",
+      "date": "2025-12-31"
+    },
+    {
+      "direction": "返程",
+      "airline": "春秋航空",
+      "flightNo": "9C6218",
+      "departAirport": "东京成田T3",
+      "arriveAirport": "上海",
+      "date": "2026-01-05"
+    }
+  ],
+  "itinerary": [
+    {
+      "dayNum": "Day0",
+      "date": "12.31",
+      "title": "东京跨年｜上野版本",
+      "notes": "全部活动锁定上野，不跑银座；朋友同酒店，晚餐后步行回酒店，不影响次日出发。🍺重点：三宝乐黑标サッポロ黒ラベル，吧台手压酒头生啤；不吃烤肉、不吃omakase",
+      "timeline": [
+        {
+          "time": "中午",
+          "title": "上野午餐",
+          "place": "备选：阿夫利柚子拉面 AFURI（上野店） / 柠檬与牛（上野店）"
+        },
+        {
+          "time": "午饭后",
+          "title": "酒店Check-in + 寄存行李",
+          "desc": "步行回酒店办理入住、放行李，轻装出门"
+        },
+        {
+          "time": "下午",
+          "title": "album鱼子酱护理"
+        },
+        {
+          "time": "晚间",
+          "title": "朋友汇合跨年晚餐"
+        }
+      ]
+    }
+  ],
+  "todos": [],
+  "ledger": []
+}
